@@ -1,4 +1,4 @@
-# NER notes
+# Wikidata Dump Parser in Go
 
 # About
 
